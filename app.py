@@ -21,7 +21,7 @@ def similar_hotel_details(hotel_id):
 # Frontend
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app=dash.Dash(__name__,external_stylesheets=external_stylesheets)
-
+server = app.server
 app.layout = html.Div([
                        html.H1('Analysis',style={'textAlign': 'center','overflow':'hidden',
   'background-color':'#1F77b4',
