@@ -1,0 +1,78 @@
+,hotel_id,area,region,homestay_name,price
+0,0,umtav vado,north goa,Rachith Aashiyana,4599
+1,1,candolim,north goa,3 bedroom budget villa Candolim,9000
+2,2,assagao,north goa,4BHK Villa In Assagao,13399
+3,3,dona paula,north goa,Landscape Sea Side Rooms,3999
+4,4,calangute,north goa,1 Bed Room Apartment 2,3299
+5,5,calangute,north goa,1 Bed Room Apartment 1,3299
+6,6,candolim,north goa,2 Bedroom Apartment,3299
+7,7,vagator,north goa,8 Bedroom Guest House,23104
+8,8,colva,south goa,Waite 2BHK Apartment,3500
+9,9,varca,south goa,Coconut Groove,3500
+10,10,carmona,south goa,Lio’s Apartment,2000
+11,11,benaulim,south goa,Earth 4BHK Villa,6999
+12,12,benaulim,south goa,Westwinds 1BHK Apartment,1499
+13,13,colva,south goa,Aqua Marina 2BHK Row Villa,6000
+14,14,carmona,south goa,Belle Vue Avenue 3BHK Villa,3000
+15,15,agonda,south goa,1BHK Farm House In Agonda,1500
+16,16,varca,south goa,Costa Holidays 3 BHK Villa T3,5999
+17,17,colva,south goa,Florida Gardens 3 BHK Apartment UG-4,4499
+18,18,varca,south goa,Costa Holidays 2 BHK Apartment AT7,2499
+19,19,varca,south goa,Costa Holidays 2 BHK Apartment AF4,2499
+20,20,benaulim,south goa,Royal palms 1 BHK 1,6000
+21,21,benaulim,south goa,Lotus Hermitage 2 BHK Apartment 1,3500
+22,22,benaulim,south goa,Lotus Hermitage 2 BHK Apartment 2,3500
+23,23,colva,south goa,Sakina 2 BHK Apartment 3,3200
+24,24,colva,south goa,Sakina 2 BHK Apartment 2,3200
+25,25,colva,south goa,Sakina 2 BHK Apartment 1,3200
+26,26,benaulim,south goa,Lotus Hermitage 1 BHK Apartment,2000
+27,27,colva,south goa,Sea Mist 2 BHK Apartment 4,2799
+28,28,colva,south goa,Sea Mist 2 BHK Apartment 2,2799
+29,29,varca,south goa,Praman’s 2BHK Apartment,7500
+30,30,colva,south goa,Sea Mist 2 BHK Apartment 2,2799
+31,31,varca,south goa,Jennifer 2 BHK Apartment,6000
+32,32,colva,south goa,Sea Mist 2 BHK Apartment 1,2799
+33,33,colva,south goa,Sea Mist 1 BHK Apartment 4,1899
+34,34,benaulim,south goa,Sea Mist 1 BHK Apartment 3,1899
+35,35,colva,south goa,Sea Mist 1 BHK Apartment 2,1899
+36,36,colva,south goa,Sea Mist 1 BHK Apartment 1,1899
+37,37,colva,south goa,Florida 3 bedroom Bunglow,12000
+38,38,colva,south goa,Florida Trevor 3 BHK Apartment,9999
+39,39,benaulim,south goa,Maynard Beach Palace 2BHK Apartment,1999
+40,40,colva,south goa,Prudential Pristine,7999
+41,41,benaulim,south goa,West wind Periera 2BHK Apartment 2,4000
+42,42,benaulim,south goa,West wind Periera 2BHK Apartment 1,4000
+43,43,colva,south goa,“Savio D’Silva 2BHK Apartment,8000
+44,44,majorda,south goa,C Pearl 1BHK Apartment,3250
+45,45,colva,south goa,Cliff Heaven 3BHK Villa,16250
+46,46,colva,south goa,Cliff Heaven 2BHK Apartment,10790
+47,47,benaulim,south goa,Peter Paradise 1BHK Non A/C,1560
+48,48,colva,south goa,Cliff Heaven 1BHK Apartment,5850
+49,49,benaulim,south goa,Peter Paradise 1BHK A/C,2860
+50,50,colva,south goa,Celebrity Kingdom Studio Apartment,1820
+51,51,colva,south goa,Celebrity Kingdom 1BHK Apartment,3250
+52,52,benaulim,south goa,Mistral Holidays Studio Apartment,2500
+53,53,benaulim,south goa,Mistral Holidays 1BHK Apartment,2500
+54,54,benaulim,south goa,Golden Sands 1BHK Apartment T5,1500
+55,55,benaulim,south goa,Golden Sands 1BHK Apartment T4,1500
+56,56,benaulim,south goa,Golden Sands 1BHK Apartment T3,1500
+57,57,benaulim,south goa,CD Zen Garden Golden Aurao 3BHK Villa,12500
+58,58,benaulim,south goa,Ros Super Deluxe,2990
+59,59,benaulim,south goa,Ros Deluxe Room,2470
+60,60,benaulim,south goa,Ros Standard Rooom,2210
+61,61,benaulim,south goa,CD Zen Garden 3BHK Villa,12000
+62,62,benaulim,south goa,Vaz Residency,2800
+63,63,benaulim,south goa,Golden Sands 1 BHK Apartment T2,1500
+64,64,benaulim,south goa,Florida Gardens 4 BHK Villa,5499
+65,65,unknown,south goa,Benaulim House 6 BHK Villa,7000
+66,66,varca,south goa,Costa Holidays 2 BHK Apartment AF3,2499
+67,67,varca,south goa,Costa Holidays 3 BHK Villa D7,3600
+68,68,varca,south goa,Costa Holidays 3 BHK Villa D9,3600
+69,69,varca,south goa,Serenity 4 BHK Villa C18,6000
+70,70,varca,south goa,Serenity 3 BHK Villa C6,9000
+71,71,varca,south goa,Serenity 3 BHK Villa C5,9000
+72,72,varca,south goa,Serenity 2 BHK Apartment D7,6500
+73,73,varca,south goa,Serenity 2 BHK Apartment D5,6500
+74,74,varca,south goa,Serenity 2 BHK Apartment D4,6500
+75,75,varca,south goa,Costa Holidays 3 BHK Villa C4,2999
+76,76,varca,south goa,Serenity 2 BHK Apartment D3,6500
